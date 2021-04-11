@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Valorant_font';
+    src: url('../assets/fonts/Valorant_Font.ttf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap');
+.bg-valorrank-primary {
+    background-color: #1c252e;
+}
+.bg-valorrank-secondary {
+    background-color: #ff4654;
+}
+
+.font-valorrank{
+    font-family: 'Valorant_font';
+}
+.text-valorrank-primary{
+    color: #1c252e;
+}
+.text-size-30p{
+    font-size: 30px;
+}
+
+.bg-size-100 {
+    width: 100vw;
+    height: 100vh;
+}
+
+.nav-language {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Noto Sans TC', sans-serif;
+    transition: all 1ms;
+}
+.nav-language:hover{
+    color: #1c252e;
+}
